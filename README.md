@@ -2,30 +2,31 @@
 # Привет, меня зовут Андрей!
 
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
-Я начинающий мобильный разработчик. 
+Я начинающий мобильный разработчик :man_technologist: 
 
-- :pencil2: Участвую в бассейне Школы 21 от Сбера.
+Работаю техническим специалистом по сборке преобразователей напряжения и источников питания.Хочу развиваться в мобильной разработке и совершенствовать свои софты и харды
+-  Участвую в бассейне Школы 21 от Сбера. 
 
-- :envelope: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Zhuravlyov_Andrey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Zhuravlyov_Andrey) [![Yandex Badge](https://img.shields.io/badge/-@yandex-yellow?style=flat&logo=Mail&logoColor=white)](mailto:Zhuravlev112358@yandex.ru)
+- Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Zhuravlyov_Andrey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Zhuravlyov_Andrey) [![Yandex Badge](https://img.shields.io/badge/-@yandex-yellow?style=flat&logo=Mail&logoColor=white)](mailto:Zhuravlev112358@yandex.ru)
 
 ---
 
-### 🤝 Социальные сети:
+### Социальные сети:
 
   <div id="badges">
     <a href="https://[www.linkedin.com](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D1%91%D0%B2-628aab153/)/in/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/Zhuravlyov_Andrey" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" /> 
     </a>
   </div>
 
 ---
 
-### 💻 Стек:
+### Стек:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -40,7 +41,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### Инструменты:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
@@ -51,7 +52,7 @@
 
 ---
 
-### :man_student: Пройденные курсы:
+### Пройденные курсы:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -66,13 +67,13 @@
 
 ---
 
-### 💻 Codewars:
+### Codewars:
 
 ![codewars](https://www.codewars.com/users/ZhuravlevAndrey/badges/large)
 
 ---
 
-### ⚙️ GitHub статистика:
+### GitHub статистика:
 
 <table>
   <tr>
