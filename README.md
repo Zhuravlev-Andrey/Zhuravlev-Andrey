@@ -7,7 +7,7 @@
 Я начинающий мобильный разработчик :man_technologist: 
 
 Работаю техническим специалистом по сборке преобразователей напряжения и источников питания.Хочу развиваться в мобильной разработке и совершенствовать свои софты и харды
--  Участвую в бассейне Школы 21 от Сбера. 
+-  Начал обучение в Школе 21 от Сбера [24.04.2024] 
 
 - Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Zhuravlyov_Andrey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Zhuravlyov_Andrey) [![Yandex Badge](https://img.shields.io/badge/-@yandex-yellow?style=flat&logo=Mail&logoColor=white)](mailto:Zhuravlev112358@yandex.ru)
 
