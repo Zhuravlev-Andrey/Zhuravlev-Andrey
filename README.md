@@ -4,9 +4,7 @@
 
 ### Обо мне:
 
-Я начинающий мобильный разработчик :man_technologist: 
-
-Работаю техническим специалистом по сборке преобразователей напряжения и источников питания.Хочу развиваться в мобильной разработке и совершенствовать свои софты и харды
+Работаю техническим специалистом по сборке преобразователей напряжения и источников питания.
 -  Начал обучение в Школе 21 от Сбера [24.04.2024] 
 
 - Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Zhuravlyov_Andrey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Zhuravlyov_Andrey) [![Yandex Badge](https://img.shields.io/badge/-@yandex-yellow?style=flat&logo=Mail&logoColor=white)](mailto:Zhuravlev112358@yandex.ru)
@@ -30,11 +28,9 @@
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" title="sql" alt="sql" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" title="linux" alt="linux" width="40" height="40"/>&nbsp;
   
 </div>
 
@@ -43,9 +39,13 @@
 ### Инструменты:
 
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/160px-Visual_Studio_Code_1.35_icon.svg.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/240px-Diagrams.net_Logo.svg.png" title="drawio" alt="drawio" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/350px-Markdown-mark.svg.png" title="Markdown" alt="Markdown" width="60" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Plantuml_Logo.svg/240px-Plantuml_Logo.svg.png" title="PlantUML" alt="PlantUML" width="60" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Mir_company_logo_with_text.tiff/lossless-page1-440px-Mir_company_logo_with_text.tiff.png" title="Miro" alt="Miro" width="60" height="40"/>&nbsp;
+
 </div>
 
 ---
